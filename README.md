@@ -1,6 +1,16 @@
 
 # Risk Register: Coastal Community Bank
 
+**Scope:** This project focused on creating a risk register for a fictional commercial bank. Key activities included:
+
+- Assessing the likelihood of each identified risk.
+- Determining the severity of each risk's potential impact.
+- Calculating a priority score for each risk (Likelihood x Severity).
+- Comparing risk scores to facilitate the team's prioritization of remediation efforts.
+  
+![image](https://github.com/user-attachments/assets/0b3d8dc1-f5f1-4cc3-be92-fef04e639e41)
+
+---
 ## 📍 Operational Environment
 The bank is located in a coastal area with low crime rates. The organization operates with:
 - 100 on-premise employees
@@ -10,9 +20,6 @@ The bank is located in a coastal area with low crime rates. The organization ope
 - Marketing partnerships with a professional sports team and 10 local businesses
 
 📝 The bank is subject to strict financial regulations, including Federal Reserve requirements for daily cash availability.
-
-![image](https://github.com/user-attachments/assets/0b3d8dc1-f5f1-4cc3-be92-fef04e639e41)
-
 
 ---
 
