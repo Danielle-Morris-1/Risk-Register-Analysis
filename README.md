@@ -11,6 +11,8 @@ The bank is located in a coastal area with low crime rates. The organization ope
 
 📝 The bank is subject to strict financial regulations, including Federal Reserve requirements for daily cash availability.
 
+![image](https://github.com/user-attachments/assets/114bc100-3650-49ac-9d3d-614a7fb8ff74)
+
 ---
 
 ## Risk Matrix
